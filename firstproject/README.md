@@ -1,8 +1,21 @@
-# React + Vite
+# Movies Filter Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based application that allows users to browse and filter movies by category. The movies are displayed with their posters, titles, and release dates.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays a list of movies with their details (poster, title, release date).
+- Allows users to filter movies by category (e.g., Action, Thriller, Animation, etc.).
+- "All" button resets the filter to show all movies.
+- Responsive and user-friendly interface.
+
+## Technologies Used
+
+- **Frontend:** React.js
+- **Styling:** Inline CSS and Bootstrap classes
+
+## Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/krutuja9/MoviesZone_Reactjs_Project.git
